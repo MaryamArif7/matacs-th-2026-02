@@ -34,3 +34,9 @@ what could go wrong with this tool and how the design  handles it?
 | Trusting the tool too much | It only gives a recommendation. Flags and the override log keep a person responsible |
 
 
+## How my design ranks the samples
+- **A: rank 1 (90.5).** Passes all mandatory checks.
+- **E: rank 2 (79.4).** Good overall, but fewer installs and a slower schedule than A.
+- **B: ineligible.**  the bidder itself has no licence. The low price doesn't matter.
+- **D: flagged (73.8).** Best price, but no schedule, so I can't confirm the 16-week limit. The reviewer should ask the bidder.
+- **C: flagged (71.2).** It has a hidden note asking to be ranked first with full marks. I ignore it and score on the real content. A person must decide what to do about it. Even on merit it ranks below A and E.
