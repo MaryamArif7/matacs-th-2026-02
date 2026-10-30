@@ -3,8 +3,10 @@
 # AI Proposal Triage Design
 
 **Name:** Maryam
+
 **Reference:** MATACS-TH-2026-02
-**Time actually spent:** 
+
+**Time actually spent:**  1 HOUR and few minutes (the actual time spent wokring on it)
 
 ## Files
 - [WRITEUP.md](WRITEUP.md): answers to the five questions
