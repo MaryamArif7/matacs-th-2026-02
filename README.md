@@ -22,4 +22,4 @@ I used AI to:
 
 **Where I disagreed with or corrected the AI:** 
 
-The first draft of my write-up used formal language and phrases close to the brief’s wording. I simplified it into my own words, because the brief says not to copy its text and I wanted to be able to explain every line myself.
+The first draft of my write-up used formal language and phrases close to the brief’s wording. I simplified it into my own words and i used to extract the facts,it missed some stats of one company i checked and reviewed again to make sure.
